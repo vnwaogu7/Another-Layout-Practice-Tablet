@@ -9,7 +9,8 @@ body{
 }
 
 .img, .img2{
-  height:200px;
+  width:;
+  height:;
 }
 
 div{
@@ -40,7 +41,7 @@ header h1{
   text-shadow:2px 2px #3f4247;
   padding-top:50px;
   padding-bottom:50px;  
-  background-image:url("header-img.jpg")
+  background-image:url("https://s3.us-east-1.amazonaws.com/blackboard.learn.xythos.prod/5849b9bae4172/565539?response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27header-img.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190324T200946Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAIL7WQYDOOHAZJGWQ%2F20190324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=595bbc2b91f789ab574b82381c5632d6677452f45255d3673ba3d7456c57629c");
   color:white;
   margin-bottom:0px;
 }
@@ -73,7 +74,7 @@ footer{
 
 .twin{
   display:flex;
-  justify-content:space-between;
-  margin-bottom:4px;
+  margin:4px
+  
 
 }
