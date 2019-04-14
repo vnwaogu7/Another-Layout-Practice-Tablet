@@ -1,0 +1,74 @@
+
+body{
+  text-align:center;
+  width:450px;
+  height:;
+}
+
+.img, .img2{
+  height:00px;
+}
+
+div{
+  margin-top:30px;
+  margin-bottom:10px;  
+  
+}
+
+div h3, div p{
+ 
+  margin-left:25px;
+  font-size:12px;
+  margin-right: 20px;
+  text-align:left;
+}
+
+p{
+  font-family:arial;
+  font-size:12px;
+  
+}
+
+#top {
+  text-align:left;
+}
+header h1{
+  font-family:helvetica;
+  text-shadow:2px 2px #3f4247;
+  padding-top:50px;
+  padding-bottom:50px;  
+  background-image:url("https://s3.us-east-1.amazonaws.com/blackboard.learn.xythos.prod/5849b9bae4172/565539?response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27header-img.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190324T200946Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAIL7WQYDOOHAZJGWQ%2F20190324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=595bbc2b91f789ab574b82381c5632d6677452f45255d3673ba3d7456c57629c");
+  color:white;
+  margin-bottom:0px;
+}
+
+
+ul{
+  font-family:arial;
+  font-size:13px;
+  display:flex;
+  color:white;
+  justify-content:space-between;
+  padding:10px 20px 10px 15px;
+  background-color:#061e47;
+  margin-top:0px;
+}
+
+#break{
+  text-align:center;
+}
+
+footer{
+  font-size: 10px;
+  font-family:arial;
+  text-align:center;
+  padding-bottom:px;
+  padding:10px;
+  color:white;
+  background-color:navy;
+}
+
+.twin{
+  display:flex;
+
+}
