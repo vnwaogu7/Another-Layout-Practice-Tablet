@@ -4,12 +4,12 @@
 
 body{
   text-align:center;
-  width:450px;
+  width:500px;
   height:;
 }
 
 .img, .img2{
-  height:00px;
+  height:200px;
 }
 
 div{
@@ -73,5 +73,7 @@ footer{
 
 .twin{
   display:flex;
+  justify-content:space-between;
+  margin-bottom:4px;
 
 }
